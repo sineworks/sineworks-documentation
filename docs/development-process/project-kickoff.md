@@ -1,3 +1,0 @@
-# Project Kickoff
-
-Introduction
