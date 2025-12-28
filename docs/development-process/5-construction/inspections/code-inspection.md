@@ -8,7 +8,7 @@ description: PROJECT NAME
 <h1> `<Project Name>` </h1>
 <h3> `<System / Feature>` </h3>
 
-NOTE: how are we going to determine the scope of the inspections, or what we are expecting
+TODO: how are we going to determine the scope of the inspections, or what we are expecting
 
 ---
 
@@ -16,7 +16,7 @@ NOTE: how are we going to determine the scope of the inspections, or what we are
 
 ## Functionality
 
-- [] Code performs function as established by requirements.
+- [ ] Code performs function as established by requirements.
 
 
 ## Approval
