@@ -1,9 +1,10 @@
 ---
 sidebar_label: Project Kickoff
+description: PROJECT NAME
 ---
 # Project Kickoff
 
-**Project Name**
+<h1> `<Project Name>` </h1>
 
 ---
 

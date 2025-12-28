@@ -1,9 +1,11 @@
 ---
 sidebar_label: Requirements Specification
+description: PROJECT NAME
 ---
 
 # Software Requirements Specification  
-<h1> for `<Project>` </h1>
+
+<h1> `<Project Name>` </h1>
 
 **Version:** 1.0 (Approved)  
 **Prepared by:** `<Author>`  

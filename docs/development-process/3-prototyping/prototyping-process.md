@@ -1,9 +1,10 @@
 ---
 sidebar_label: Prototyping Process
+description: PROJECT NAME
 ---
 # Prototyping Process
 
-**Project Name**
+<h1> `<Project Name>` </h1>
 
 ---
 
