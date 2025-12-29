@@ -5,10 +5,13 @@ description: Follow these principles during construction
 
 # Construction Principles
 
----
 ## Managing complexity is Sineworks's Primary Technical Imperative.
 
+> “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.“ —Martin Fowler
+
 ---
+
+### Construction is tranforming the design into an executable program.
 
 ### Nothing less than **quality** code is acceptable.
 
@@ -18,6 +21,8 @@ description: Follow these principles during construction
 - **Every line of code will be reviewed and formally inspected.**
 - **Quality examples will be documented and provided.**
 - **Elegance is a requirement.**
+- **Defects will be recorded with inspections, and defect hotspots will be noted.**
+- **Testing is merely one way to ensure code quality and does not replace other methods.**
 
 ### The construction process is highly iterative.
 
@@ -34,6 +39,7 @@ description: Follow these principles during construction
 ### Consistently re-estimate the construction schedule.
 
 ### Construction progress will be measured.
+
 
 - **Progress is not qualifiable.**
 - **Progress is measured by working code.**
