@@ -1,6 +1,6 @@
 ---
-sidebar_label: CI/CD
-description: Click here for CI/CD.
+sidebar_label: CI/CD Process
+description: PROJECT NAME.
 ---
 
 # CI/CD
