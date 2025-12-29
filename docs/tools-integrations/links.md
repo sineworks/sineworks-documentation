@@ -3,6 +3,10 @@ sidebar_label: Links
 description: Click here for links to Plane.so, etc.
 ---
 
+# Links
+
+## Business
+
 [**Sineworks Landing Page**](http://sineworks.io/)
 
 [**Plane.so**](https://app.plane.so/sineworks/)
@@ -11,7 +15,7 @@ description: Click here for links to Plane.so, etc.
 
 [**Eraser.io**](https://app.eraser.io/workspace/f7a8vZlfKmOiSrsmPI29)
 
-# Sources of High-Quality Tech Information
+## Sources of High-Quality Tech Information
 
 ### [IEEE Transactions on Software Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32)
 
@@ -20,7 +24,16 @@ description: Click here for links to Plane.so, etc.
 - Sort by popular
 - If a paper isn't free, search on arXiv
 
+Paper: [The Impact of Prompt Programming on Function-Level Code Generation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11077752)
+
 ### [arXiv](https://arxiv.org/)
+
+Paper: [Software Testing with Large Language Models: Survey, Landscape, and Vision](https://arxiv.org/pdf/2307.07221)
+
+### [ACM Computing Surveys](https://dl.acm.org/journal/csur)
+
+> "These comprehensive, readable surveys and tutorial papers give guided tours through the literature and explain topics to those who seek to learn the basics of areas outside their specialties in an accessible way. The carefully planned and presented introductions in Computing Surveys (CSUR) are also an excellent way for researchers and professionals to develop perspectives on, and identify trends in complex technologies. Contributions which bridge existing and emerging technologies (such as machine learning) with a variety of science and engineering domains in a novel and interesting way are also welcomed. 
+Contributions are intended to be accessible to a broad audience, featuring clear exposition, a lively tutorial style, and pointers to the literature for further study."
 
 
 ### [Google Research](https://research.google/)
