@@ -3,7 +3,7 @@ sidebar_label: CI/CD Process
 description: PROJECT NAME.
 ---
 
-# CI/CD
+# CI/CD Process
 
 > Trunk-Based Development is a key enabler of Continuous Integration and by extension Continuous Delivery.
 
