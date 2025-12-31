@@ -11,12 +11,10 @@ description: PROJECT NAME
 
 ![Scaled Trunk-Based](../../assets/scaled-trunk-based.png)
 
-Input: Uninspected code from a feature branch
-
 1. Initiate pull request
 
-2. Conduct code inspection
+2. Conduct [Code Inspection](./inspections/code-inspection.md)
 
-3. 
+3. Approve code into trunk / reject code
 
-Output: Integrated, inspected code in develop branch
+4. Delete branch

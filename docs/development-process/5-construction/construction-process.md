@@ -22,9 +22,9 @@ description: Follow these steps during construction.
         - Inspectable work items reflect feature abstraction
         - Inspection closes out work item and moves code into trunk
 
-| Work Item ID | Work Item Description | SWDD ID | SWDD Description | Test ID | Acceptance Criteria | Dependencies | Risk |
-| - | - | - | - | - | - | - | - |
-|   |   |   |   |   |   |   |   |
+| Work Item ID | Work Item Title | Work Item Description | SWDD ID | SWDD Description | Test ID | Acceptance Criteria | Dependencies | Risk |
+| - | - | - | - | - | - | - | - | - |
+|   |   |   |   |   |   |   |   |   |
 
 ### 2. Create construction plan
 
@@ -44,4 +44,4 @@ description: Follow these steps during construction.
     - Work items measure progress of requirement fulfillment.
     - Create feature branches corresponding to inspectable work items
 
-### 6. Conduct [Continuous Itegration Process](./ci-process.md)
+### 6. As work items are completed, conduct [Continuous Itegration Process](./ci-process.md)

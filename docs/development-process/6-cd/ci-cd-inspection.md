@@ -8,18 +8,16 @@ description: PROJECT NAME
 <h1> `<Project Name>` </h1>
 
 ---
-## Continuous Integration
+
+## Continuous Delivery
 
 - [ ] A minimally configured environment can run the system after the execution of a single command
-- [ ] Code is easy to find for a given piece of work
 - [ ] Mainline is a single, shared branch that acts the current state of the product
+- [ ] Code is easy to find for a given piece of work
 - [ ] The build is self-testing
 - [ ] Push to mainline triggers a build
 - [ ] Builds are relatively fast
 - [ ] Tests occur in a clone of the production environment
-
-## Continuous Delivery
-
 - [ ] Product maintains releasable status
 - [ ] Product uses Deployment Pipeline
 
