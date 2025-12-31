@@ -28,6 +28,11 @@ Defect Classifications:
 
 [Google Style Guide](https://google.github.io/styleguide/tsguide)
 
+| Inspection ID | Work Item ID | Work Item |
+| ------------- | ------------ | --------- | 
+|               |              |           |
+
+
 ## Functionality
 
 - [ ] Code performs function as established by requirements.

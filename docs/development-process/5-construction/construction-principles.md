@@ -11,6 +11,8 @@ description: Follow these principles during construction
 
 ---
 
+### Write code for people first, computers second.
+
 ### Construction is tranforming the design into an executable program.
 
 ### Nothing less than **quality** code is acceptable.

@@ -5,38 +5,43 @@ description: Follow these steps during construction.
 
 # Construction Process
 
-**Construction is executed using Scrum:**
+<!-- **Construction is executed using Scrum:** -->
+<!-- 
+![Scrum](../../assets/scrum.webp) -->
 
-![Scrum](../../assets/scrum.webp)
 
-### 1. Create product backlog
+### 1. Transform [SWDD](../4-design/software-design-document.md) into work items
 
-- **Derive backlog items from Software Design Document**
+    - Traceability Martix: Requirement - Design Element - Work Item - Code - Test
+    - Work item: ID, SWDD Reference, Description, Acceptance Criteria, Tests, Dependencies, Risk (low, med, high)
+    - Establish dependency relationships (UML use case diagrams)
+    - Risk factors: Technical novelty, complexity, integrations, performance, security
 
-### 2. Plan sprint
+    - Sync work items with features
+        - Feature flags are used for branching
+        - Inspectable work items reflect feature abstraction
+        - Inspection closes out work item and moves code into trunk
 
-- **Assign dates to backlog items**
-- **Set goals for the sprint**
+| Work Item ID | Work Item Description | SWDD ID | SWDD Description | Test ID | Acceptance Criteria | Dependencies | Risk |
+| - | - | - | - | - | - | - | - |
+|   |   |   |   |   |   |   |   |
 
-### 3. Conduct sprint
+### 2. Create construction plan
 
-- **TODO: WHEN WILL INSPECTIONS BE COMPLETED?**
+- Plan the order in which work items will be completed. Consider dependencies and abstractions
 
-### 4. Increment product
+### 3. Create construction schedule
 
-- **Establish an increment to be analyzed during the sprint review**
+### 4. Assign work items to indiviuals
 
-### 5. Conduct sprint review
+- Promotes responsibility
+- Consider personnel requirements (vacations, etc.)
 
-- **Inspect product increment with stakeholders**
-- **Identify which requirements were completed**
-- **Identify which requirements still need to be completed**
+### 5. Complete work items
 
-### 6. Conduct sprint retrospective
+    - Conduct sprints
+    - Each work item will have associate tests
+    - Work items measure progress of requirement fulfillment.
+    - Create feature branches corresponding to inspectable work items
 
-- **Analyze the processes during the sprint**
-- **Improve the scrum process**
-
-### 7. Iterate
-
-- **Modify product backlog as necessary**
+### 6. Conduct [Continuous Itegration Process](./ci-process.md)

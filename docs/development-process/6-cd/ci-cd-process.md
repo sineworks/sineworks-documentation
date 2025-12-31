@@ -13,6 +13,8 @@ description: PROJECT NAME.
 
 TODO: How will branches be determined? Feature flags? Branch by abstraction?
 
+feature branches, fix branches, etc
+
 ---
 
 ## Principles of Continuous Integration

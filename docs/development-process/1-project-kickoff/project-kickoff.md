@@ -25,6 +25,8 @@ description: PROJECT NAME
 
 ## Stakeholders
 
+#### Person-in-Charge
+
 #### Developers
 
 #### Clients
