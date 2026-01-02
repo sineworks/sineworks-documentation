@@ -1,5 +1,6 @@
 ---
 sidebar_label: Experiment-ID
+description: PROJECT NAME
 ---
 
 # Experiment Name

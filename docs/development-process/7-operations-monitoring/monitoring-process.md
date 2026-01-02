@@ -5,7 +5,7 @@ description: PROJECT NAME.
 
 # Monitoring Process
 
-### Define key metrics
+## 1. Define key metrics
 
     - Performance
     - Errors
@@ -13,11 +13,11 @@ description: PROJECT NAME.
     - User experience
     - Sales
 
-### Create notification plan
+## 2.  Create notification plan
 
     - Points-of-contact to be identified in case of system crashes, changes, etc.
 
-## Integrate with Sineworks Client Dashboard
+## 3. Integrate with Sineworks Client Dashboard
 
 - Allows clients to see status of their products in a highly-readable user interface
 - Provides an interface for clients to request changes, etc.

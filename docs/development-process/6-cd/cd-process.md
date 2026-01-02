@@ -17,6 +17,6 @@ description: PROJECT NAME
 
 ## Deployment Pipeline
 
-**A deployment pipeline is an automated manifestation of your process for getting software from version control into the hands of your users.**
+> "A deployment pipeline is an automated manifestation of your process for getting software from version control into the hands of your users."
 
 ![DevOps Pipeline](../../assets/devops_pipeline.png)

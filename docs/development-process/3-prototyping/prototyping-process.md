@@ -8,16 +8,16 @@ description: PROJECT NAME
 
 ---
 
-### Familiarization phase
+### Conduct familiarization phase
 
-#### List all system features that could be problematic:
+List all system features that could be problematic:
 
-#### List challenges in achieving required functionality:
+List challenges in achieving required functionality:
 
-#### List experiments that will verify functionality:
+List experiments that will verify functionality:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Experiment*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Result of Experiment*
 
-#### Is the project within Sineworks’s capabilities?
+Is the project within Sineworks’s capabilities?

@@ -21,9 +21,7 @@ description: PROJECT NAME.
 
 ### 6. Implement change
 
-### 7. Inspect change
-
-    - [Code Inspection](../5-construction/inspections/code-inspection.md)
+### 7. [Inspect change](../5-construction/inspections/code-inspection.md)
 
 ### 8. Remove abstraction layer
 

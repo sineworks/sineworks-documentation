@@ -1,9 +1,9 @@
 ---
-sidebar_label: CI/CD Inspection
+sidebar_label: Continuous Delivery Inspection
 description: PROJECT NAME
 ---
 
-# CI/CD Inspection
+# Continuous Delivery Inspection
 
 <h1> `<Project Name>` </h1>
 
