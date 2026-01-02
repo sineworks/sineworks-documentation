@@ -113,9 +113,23 @@ loop?
 
 ## Defect Log
 
-**Error types**: TODO: create types
+**Defect types:**
 
-**Severity**: Major, Minor
+- Style: code is unclear; code is nonconforming to style guide; code is not self-documenting
+
+- Structure: code is overly complicated; code is unelegant or "smells"
+
+- Correctness: code behaves as specified by requirements
+
+- Completeness: code leaves nothing unstated or undetermined; code not missing required items
+
+- Syntax: problem in the grammar / rules of the code
+
+- Security: code contains a security vulnerability
+
+- Other
+
+**Severity:** Major, Minor
 
 | Error No. | Page/Line No. | System/Component | Type | Severity | Description |
 | --------- | ------------- | ---------------- | ---- | -------- | ----------- |
