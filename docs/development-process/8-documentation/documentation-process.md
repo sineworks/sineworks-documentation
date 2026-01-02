@@ -9,12 +9,14 @@ description: PROJECT NAME.
 
 __
 
-## Technical Documentation
-
-### Compile development process documentation
-
 ## User Documentation
 
 - Reference any use-case diagrams
 - Describe features (traceability to design elements)
+- Installation instructions
+
+## Technical Documentation
+
+- Includes development process documents (requirements, design, etc.)
+- Includes source code
 

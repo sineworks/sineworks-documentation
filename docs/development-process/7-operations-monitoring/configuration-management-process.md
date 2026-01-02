@@ -11,7 +11,7 @@ description: PROJECT NAME.
 
 - Requirements document
 - Design document
-- Inpections
+- Inspections
 - Production code
 - Change request forms
 - Required packages / tools

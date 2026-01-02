@@ -8,9 +8,17 @@ description: PROJECT NAME
 <h1> `<Project Name>` </h1>
 
 ---
-## Introduction
+## User Documentation
 
-- [ ] Introduction Completed 
+- [ ] Customer can use the product with only the user documentation
+- [ ] Documentation completely covers product functionality and use-cases
+
+## Technical Documentation
+
+- [ ] Useful, informative comments in source code
+- [ ] Necessary technical documents provided
+- [ ] All inspections provided
+- [ ] Change requests provided
 
 
 
