@@ -8,7 +8,6 @@ description: PROJECT NAME
 <h1> `<Project Name>` </h1>
 <h3> `<System / Feature>` </h3>
 
-TODO: Notes: how are we going to determine the scope of the inspections, or what we are expecting?
 Defect Classifications:
 -Clarity
 -Completeness

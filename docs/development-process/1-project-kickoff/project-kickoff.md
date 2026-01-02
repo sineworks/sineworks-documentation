@@ -22,6 +22,8 @@ Why hasn’t this product already been developed?
 
 Is there new technology that makes this the right moment to bring a product to market?
 
+How could the project generate profit?
+
 
 ## Stakeholders
 
