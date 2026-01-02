@@ -8,6 +8,8 @@ description: PROJECT NAME
 
 ---
 
+### Familiarization phase
+
 #### List all system features that could be problematic:
 
 #### List challenges in achieving required functionality:

@@ -1,15 +1,13 @@
 ---
-sidebar_label: Maintenance Process
+sidebar_label: Change Control Process
 description: PROJECT NAME.
 ---
 
-# Maintenance Process
+# Change Control Process
 
 ---
 
-### 1. Determine maintenance objective
-
-    - Type: Correct program defect, Add new functionality, Remove old functionality, Optimize
+### 1. Initiate [change request](./changes/change-request.md)
 
 ### 2. Understand the program
 
