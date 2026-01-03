@@ -5,6 +5,8 @@ description: PROJECT NAME.
 
 # Change Control Process
 
+*Use change control process after release of Configuration Version 1.0.0*
+
 ---
 
 ### 1. Initiate [change request](./changes/change-request.md)
