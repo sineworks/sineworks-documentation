@@ -14,42 +14,14 @@ Version: 0.0.0
 
 Questions: admin@sineworks.io
 
-[Documentation Repo](https://github.com/sineworks/sineworks-documentation)
+## Current Configuration:
 
-## Development Process
+[Project Repo](https://github.com/sineworks/sineworks-documentation)
 
-### Upstream Prequisites
-
-[Project Kickoff](./development-process/1-project-kickoff/project-kickoff.md)
-
-[Requirements](./development-process/2-requirements/requirements.md)
+[Software Requirements Specification](./development-process/2-requirements/requirements.md)
 
 [Software Design Document](./development-process/4-design/software-design-document.md)
 
-### Construction
-
-[Construction Principles](./development-process/5-construction/construction-principles.md)
-
-[Construction Process](./development-process/5-construction/construction-process.md)
-
-[Continuous Integration Process](./development-process/5-construction/ci-process.md)
-
-
-### Delivery / Maintenance
-
-[Continuous Delivery Process](./development-process/6-cd/cd-process.md)
-
-[Configuration Management Process](./development-process/7-operations-monitoring/configuration-management-process.md)
-
-[Monitoring Process](./development-process/7-operations-monitoring/monitoring-process.md)
-
-[Change Control Process](./development-process/7-operations-monitoring/change-control-process.md)
-
-[Change Request](./development-process/7-operations-monitoring/changes/change-request.md)
-
-### Documentation
-
-[Documentation Process](./development-process/8-documentation/documentation-process.md)
 
 ## Tools / Integrations
 
@@ -60,8 +32,7 @@ Questions: admin@sineworks.io
 [Plane.so](https://app.plane.so/sineworks/)
 
 [Github](https://github.com/sineworks)
-
-[Eraser.io](https://app.eraser.io/workspace/f7a8vZlfKmOiSrsmPI29)
+s
 
 ### Sources of High-Quality Tech Information
 
