@@ -45,4 +45,4 @@ Ex: GroceryList-2.1.3
 
 ## 3. Relase configuration
 
-## 4. Use change control requests to alter configuration
+## 4. Use change control process to alter configuration
