@@ -13,7 +13,7 @@ description: PROJECT NAME.
 - Design document
 - Production code
 - Required packages / tools
-- Other documents
+- Other documents related to project configuration
 
 ## 1. Determine configuration version
 
