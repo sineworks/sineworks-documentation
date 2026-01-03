@@ -12,13 +12,12 @@ description: Follow these steps during construction.
 
 ### 1. Transform [SWDD](../4-design/software-design-document.md) into work items
 
-    - Traceability Martix: Requirement - Design Element - Work Item - Code - Test
-    - Work item: ID, SWDD Reference, Description, Acceptance Criteria, Tests, Dependencies, Risk (low, med, high)
+    - Traceability Matrix: Requirement -> Design Element -> Work Item -> Code -> Test
+    - Work item: ID, Title, SWDD Reference, Description, Acceptance Criteria, Tests, Dependencies, Risk (low, med, high)
     - Establish dependency relationships (UML use case diagrams)
     - Risk factors: Technical novelty, complexity, integrations, performance, security
 
     - Sync work items with features
-        - Feature flags are used for branching
         - Inspectable work items reflect feature abstraction
         - Inspection closes out work item and moves code into trunk
 
