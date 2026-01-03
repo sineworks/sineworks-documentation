@@ -32,7 +32,7 @@ Questions: admin@sineworks.io
 [Plane.so](https://app.plane.so/sineworks/)
 
 [Github](https://github.com/sineworks)
-s
+
 
 ### Sources of High-Quality Tech Information
 
