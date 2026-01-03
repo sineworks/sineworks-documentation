@@ -19,6 +19,8 @@ description: Click here for links to Plane.so, etc.
 
 [**List of Big Tech Blogs**](https://www.index.dev/blog/20-best-software-engineering-blogs#stripe-engineering-blog)
 
+[**InfoQ Tech News**](https://www.infoq.com/)
+
 
 <!-- ### [IEEE Transactions on Software Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32)
 
