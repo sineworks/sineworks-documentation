@@ -18,7 +18,6 @@ description: Follow these steps during construction.
     - Risk factors: Technical novelty, complexity, integrations, performance, security
 
     - Sync work items with features
-        - Feature flags are used for branching
         - Inspectable work items reflect feature abstraction
         - Inspection closes out work item and moves code into trunk
 
