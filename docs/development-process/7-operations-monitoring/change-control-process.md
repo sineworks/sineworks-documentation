@@ -5,9 +5,13 @@ description: PROJECT NAME.
 
 # Change Control Process
 
-*Use change control process after release of Configuration Version 1.0.0*
-
 ---
+
+Criteria for using Change Control Process:
+
+- Changes after Version 1.0.0 release
+- Does not apply to bug fixes
+- Does not apply to typo fixes
 
 ### 1. Initiate [change request](./changes/change-request.md)
 

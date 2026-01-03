@@ -46,3 +46,5 @@ Ex: GroceryList-2.1.3
 ## 3. Relase configuration
 
 ## 4. Use change control process to alter configuration
+    
+    - Bugs automatically require change, so no change request needed for bugs
