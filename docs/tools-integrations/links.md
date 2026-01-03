@@ -21,6 +21,8 @@ description: Click here for links to Plane.so, etc.
 
 [**InfoQ Tech News**](https://www.infoq.com/)
 
+[**Thoughtworks Radar**](https://www.thoughtworks.com/radar)
+
 
 <!-- ### [IEEE Transactions on Software Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32)
 
