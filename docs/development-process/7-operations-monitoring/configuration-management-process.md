@@ -47,4 +47,4 @@ Ex: GroceryList-2.1.3
 
 ## 4. Use change control process to alter configuration
     
-    - Bugs automatically require change, so no change request needed for bugs
+    - Expceptions (no change request required): Bugs, typos
