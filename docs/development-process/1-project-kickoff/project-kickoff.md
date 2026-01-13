@@ -10,66 +10,66 @@ description: PROJECT NAME
 
 ## Introduction
 
-What is the project?
+**<u>What is the project?</u>**
 
-What problem will the project solve?
+**<u>What problem will the project solve?</u>**
 
-How do we know this is a real problem and worth solving?
+**<u>How do we know this is a real problem and worth solving?</u>**
 
-Are there products that already solve this problem?
+**<u>Are there products that already solve this problem?</u>**
 
-Why hasn’t this product already been developed?
+**<u>Why hasn’t this product already been developed?</u>**
 
-Is there new technology that makes this the right moment to bring a product to market?
+**<u>Is there new technology that makes this the right moment to bring a product to market?</u>**
 
-How could the project generate profit?
+**<u>How could the project generate profit?</u>**
 
 
 ## Stakeholders
 
-Person-in-Charge:
+**<u>Person-in-Charge:</u>**
 
-Developers:
+**<u>Developers:</u>**
 
-Clients:
+**<u>Clients:</u>**
 
-Users:
+**<u>Users:</u>**
 
-Other Stakeholders:
+**<u>Other Stakeholders:</u>**
 
 
 ## Project Scope
 
-What are the general domains the project is involved with?
+**<u>What are the general domains the project is involved with?</u>**
 
-What is the size of the project?
+**<u>What is the size of the project?</u>**
 
-Roughly how long will the project take to complete?
+**<u>Roughly how long will the project take to complete?</u>**
 
 
 ## Problem Definition
 
-What is the current state?
+**<u>What is the current state?</u>**
 
-What is the desired state?
+**<u>What is the desired state?</u>**
 
-Problem Statement
+**<u>Problem Statement</u>**
 
-What is the essential complexity required by the problem?
+**<u>What is the essential complexity required by the problem?</u>**
 
 
 ## Project Management Plan
 
-Are there any projects previously completed by Sineworks that are relevant to the current project?
+**<u>Are there any projects previously completed by Sineworks that are relevant to the current project?</u>**
 
-How can the software development process be improved for this project?
+**<u>How can the software development process be improved for this project?</u>**
 
-What processes will the project use?
+**<u>What processes will the project use?</u>**
 
-How will the development team be organized?
+**<u>How will the development team be organized?</u>**
 
-Who is responsible for decisions?
+**<u>Who is responsible for decisions?</u>**
 
-How will change be managed?
+**<u>How will change be managed?</u>**
 
-CRM:
+**<u>CRM:</u>**
