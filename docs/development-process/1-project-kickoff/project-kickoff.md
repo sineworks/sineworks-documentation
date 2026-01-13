@@ -6,6 +6,11 @@ description: PROJECT NAME
 
 <h1> `<Project Name>` </h1>
 
+**Version:** 0.0.0 (Unapproved)  
+**Prepared by:** <Name>  
+**Organization:** Sineworks  
+**Date Created:** <Date>
+
 ---
 
 ## Introduction
