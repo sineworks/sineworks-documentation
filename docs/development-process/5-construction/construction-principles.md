@@ -46,39 +46,5 @@ description: Follow these principles during construction
 - Progress is not qualifiable.
 - Progress is measured by working code.
 
-## Principles of Continuous Integration
-
-### Put source code into a version controlled mainline
-
-- A minimally configured environment should be able to easily build, and run the product after cloning the repository
-- It should be easy to find the code for a given piece of work
-- The mainline is a single, shared branch that acts the current state of the product
-
-### Automate the build
-
-- Anyone should be able to bring in a clean machine, check the sources out of the repository, issue a single command, and have a running system on their own environment.
-
-### Make the build self-testing
-
-- Any programming task combines both modifying the functionality of the program, and also augmenting the test suite to verify this changed behavior
-
-### Every push to mainline should trigger a build
-
-- Utilize GitHub Actions
-
-### Fix broken builds immediately
-
-### Keep the Build Fast
-
-- Set up a deployment pipeline
-
-### Hide work-in-progress
-
-- Utilize [keystone interfaces](https://martinfowler.com/bliki/KeystoneInterface.html)
-
-### Test in a clone of the production environment
-
-### Automate deployment
-
 
 
