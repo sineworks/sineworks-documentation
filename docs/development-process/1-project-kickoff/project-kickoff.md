@@ -7,6 +7,11 @@ description: PROJECT NAME
 
 <h1> `<Project Name>` </h1>
 
+**Version:** 0.0.0 (Unapproved)  
+**Prepared by:** <Name>  
+**Organization:** Sineworks  
+**Date Created:** <Date>
+
 ---
 
 ## Introduction
@@ -26,17 +31,22 @@ description: PROJECT NAME
 **<u>List potential useful technologies:</u>**
 
 **<u>How could the project generate profit?</u>**
+**<u>How could the project generate profit?</u>**
 
 **<u>What's the long term play?</u>**
 
 ## Stakeholders
 
 **<u>Person-in-Charge:</u>**
+**<u>Person-in-Charge:</u>**
 
+**<u>Developers:</u>**
 **<u>Developers:</u>**
 
 **<u>Clients:</u>**
+**<u>Clients:</u>**
 
+**<u>Users:</u>**
 **<u>Users:</u>**
 
 **<u>Other Stakeholders:</u>**
