@@ -8,6 +8,8 @@ description: PROJECT NAME
 <h1> `<Project Name>` </h1>
 
 ---
+
+### Previous Experiments
 			
 ###  Goal
 
@@ -19,6 +21,8 @@ description: PROJECT NAME
 
 ###  Results / Observations
 What happened? Record key findings.
+
+### Lessons Learned
 
 ### Next Steps
 What do you do based on these results? Continue, adjust, or stop? -->

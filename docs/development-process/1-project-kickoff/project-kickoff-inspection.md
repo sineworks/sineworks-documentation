@@ -17,6 +17,7 @@ description: PROJECT NAME
 - [ ] Stakeholders identified
 - [ ] General domains identified
 - [ ] Size and time required identified
+- [ ] Long term considered
 
 ## Problem Definition
 
