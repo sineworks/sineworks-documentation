@@ -1,16 +1,16 @@
 ---
 sidebar_label: Project Kickoff
 description: PROJECT NAME
--------------------------
+---
 
 # Project Kickoff
 
 <h1> `<Project Name>` </h1>
 
 **Version:** 0.0.0 (Unapproved)  
-**Prepared by:** <Name>  
+**Prepared by:** `<Name>` <br/>
 **Organization:** Sineworks  
-**Date Created:** <Date>
+**Date Created:** `<Date>`
 
 ---
 
@@ -31,22 +31,17 @@ description: PROJECT NAME
 **<u>List potential useful technologies:</u>**
 
 **<u>How could the project generate profit?</u>**
-**<u>How could the project generate profit?</u>**
 
 **<u>What's the long term play?</u>**
 
 ## Stakeholders
 
 **<u>Person-in-Charge:</u>**
-**<u>Person-in-Charge:</u>**
 
-**<u>Developers:</u>**
 **<u>Developers:</u>**
 
 **<u>Clients:</u>**
-**<u>Clients:</u>**
 
-**<u>Users:</u>**
 **<u>Users:</u>**
 
 **<u>Other Stakeholders:</u>**
