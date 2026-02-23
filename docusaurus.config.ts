@@ -47,7 +47,9 @@ const config: Config = {
           editUrl:
             'https://github.com/sineworks/sineworks-documentation/tree/main',
         },
-       blog: false,
+       blog: {
+        routeBasePath: 'blog'
+       },
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -68,6 +70,7 @@ const config: Config = {
         src: 'img/sine.png',
       },
       items: [
+        {to: 'blog', label: 'Blog', position: 'left'}, // or position: 'right'
         {
           type: 'docSidebar',
           sidebarId: 'docsSidebar',
