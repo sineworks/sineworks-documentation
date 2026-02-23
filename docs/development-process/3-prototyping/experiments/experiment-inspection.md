@@ -39,10 +39,6 @@ description: PROJECT NAME / EXPERIMENT NAME
 - [ ] Are any modules excessively complex and should be restructured or split into multiple routines?
 - [ ] Code is written to be self-documenting.
 - [ ] Are all variables properly defined with meaningful, consistent, and clear names?
-- [ ] Are all loops, branches, and logic constructs complete, correct, and properly nested?
-- [ ] Are the most common cases tested first in IF- -ELSEIF chains?
-- [ ] Are indexes or subscripts properly initialized, just prior to the loop?
-- [ ] Can any statements that are enclosed within loops be placed outside the loops?
 
 ## Approval
 
